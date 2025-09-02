@@ -1,0 +1,36 @@
+الحمد لله
+
+اشتغل مع اولاما مجلى
+
+
+عدل اسم النموذج كما ظهر فى قائمة اولاما
+
+ollama list
+
+C:\Users\TARGET STORE\Desktop\volta\1\src\index.ts
+
+
+
+npm create voltagent-app@latest
+
+npm run dev
+
+ف المتصفح
+https://console.voltagent.dev
+
+
+
+npm create voltagent-app@latest
+
+اختار اولاما
+وليس مهم اسم النموذج ف الاختيار 
+ادخل للملف وغير اسم النموذج كما يظهر فى قائمة اولاما
+
+
+
+
+
+
+https://github.com/voltagent/voltagent
+
+https://voltagent.dev/
